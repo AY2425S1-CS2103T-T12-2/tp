@@ -3,10 +3,10 @@
   "pages": [
     {
       "src": "AboutUs.md",
-      "title": "About Us",
       "headings": {
         "about-us": "About Us",
         "planperfect-project-team": "PlanPerfect Project Team",
+        "maegan-tan": "Maegan Tan",
         "aditya-ghosh": "Aditya Ghosh",
         "ignatius-oey": "Ignatius Oey"
       },
