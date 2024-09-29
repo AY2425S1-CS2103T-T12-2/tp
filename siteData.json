@@ -128,9 +128,10 @@
     },
     {
       "src": "index.md",
-      "title": "",
+      "title": "PlanPerfect",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "planperfect": "PlanPerfect",
+        "key-features": "Key Features:"
       },
       "headingKeywords": {}
     },
