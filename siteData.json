@@ -6,12 +6,9 @@
       "title": "About Us",
       "headings": {
         "about-us": "About Us",
-        "project-team": "Project team",
-        "ignatius-oey": "Ignatius Oey",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "planperfect-project-team": "PlanPerfect Project Team",
+        "aditya-ghosh": "Aditya Ghosh",
+        "ignatius-oey": "Ignatius Oey"
       },
       "headingKeywords": {}
     },
