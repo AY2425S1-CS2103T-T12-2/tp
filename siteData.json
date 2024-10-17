@@ -114,6 +114,7 @@
         "adding-a-contact-add": "Adding a contact: add",
         "listing-all-contacts-list": "Listing all contacts : list",
         "editing-a-contact-edit": "Editing a contact : edit",
+        "tagging-a-contact-tag": "Tagging a contact: tag",
         "untagging-a-contact-untag": "Untagging a contact : untag",
         "locating-contacts-by-name-find": "Locating contacts by name: find",
         "filtering-contacts-by-tag-filter": "Filtering contacts by tag: filter",
