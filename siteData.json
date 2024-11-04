@@ -62,8 +62,9 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-contact": "Deleting a contact",
-        "saving-data": "Saving data"
+        "contact-management": "Contact Management",
+        "wedding-management": "Wedding Management",
+        "error-handling-and-data-integrity": "Error Handling and Data Integrity"
       },
       "headingKeywords": {}
     },
