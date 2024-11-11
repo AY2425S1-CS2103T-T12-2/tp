@@ -63,7 +63,9 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "contact-management": "Contact Management",
         "wedding-management": "Wedding Management",
-        "error-handling-and-data-integrity": "Error Handling and Data Integrity"
+        "error-handling-and-data-integrity": "Error Handling and Data Integrity",
+        "appendix-effort": "Appendix: Effort",
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
     },
